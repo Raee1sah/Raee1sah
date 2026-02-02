@@ -24,9 +24,10 @@ I'm a Data Science student with real-world experience in machine learning, data 
 - Completing B.Sc. in Data Science at International University of Applied Sciences (2026)
 - Building end-to-end ML projects
 - Exploring advanced analytics and model deployment
+- Learning all about Vehicle Dyamics and Rcace Strategy
 
 ### 📫 Let's Connect
-- Email: raaidahahmads1@gmail.com
+- Email: raaidahahmad51@gmail.com
 - LinkedIn: [linkedin.com/in/raaidah-ahmad](https://linkedin.com/in/raaidah-ahmad)
 - Location: Lagos, Nigeria
 
