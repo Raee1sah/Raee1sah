@@ -1,6 +1,6 @@
 # Hi, I'm Raaidah Ahmad 👋
 
-## Data Scientist | ML Engineer | Educator
+## Data Scientist | ML Engineer | Race Performance Analyst
 
 I'm a Data Science student with real-world experience in machine learning, data analysis, and Python development. I've processed over 500,000 data points, built predictive models that improved customer retention by 15%, and trained 100+ students in Python and data science.
 
